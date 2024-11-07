@@ -1,0 +1,1 @@
+const n={background:"rgba(243,244,247,0.4)",color:"#86909C",fontSize:"14px",height:"48px",fontFamily:"PingFangSC-Medium, PingFang SC",lineHeight:"20px"},i={height:"60px",fontWeight:"600",color:"#333333",fontFamily:"PingFangSC-Semibold, PingFang SC",lineHeight:"30px",fontSize:"14px"};export{n as h,i as r};
