@@ -1,0 +1,1 @@
+import e from"./CardTemplate-DuLm1zS3.js";import{d as o,o as n,q as m}from"./index-BSlF4gO8.js";const _=o({name:"TwoColumn",__name:"index",setup(r){return(a,t)=>(n(),m(e,{"grid-num":12,"column-num":2}))}});export{_};

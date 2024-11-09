@@ -1,0 +1,1 @@
+import s from"./resetPassword-D7jrpUca.js";import{d as r,v as a,o,q as n,u as t}from"./index-BSlF4gO8.js";import"./rule-MbtGV0sJ.js";const d=r({name:"ResetPassward",__name:"reset",setup(m){const e=a().username;return(u,c)=>(o(),n(s,{username:t(e)},null,8,["username"]))}});export{d as default};

@@ -1,0 +1,1 @@
+import{K as r,c as o,r as c,G as m,aV as i,az as l}from"./index-BSlF4gO8.js";function p(t,u={}){const{$storage:a}=r(),s=o(()=>{var e;return parseInt(((e=a==null?void 0:a.configure)==null?void 0:e.timer)||1e3)}),n=c("");m(()=>{const{pause:e}=i(()=>{t&&t()},u.time||s.value,u);n.value=e}),l(()=>{n.value&&n.value()})}export{p as u};

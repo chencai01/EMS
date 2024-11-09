@@ -1,0 +1,1 @@
+import{m as o}from"./columns-BttWbMkM.js";import e from"./infoTable-LDbMey-1.js";import{d as n,o as r,q as t,u as m}from"./index-BSlF4gO8.js";const l=n({name:"MeterInfo",__name:"index",props:{data:Array},setup(a){return(s,c)=>(r(),t(e,{data:a.data,column:m(o)},null,8,["data","column"]))}});export{l as _};

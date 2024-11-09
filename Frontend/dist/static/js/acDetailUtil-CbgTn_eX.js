@@ -1,1 +1,0 @@
-import{I as i}from"./icontype-CrdMeA1p.js";const n=[{key:"stop",icon:i.shutdown},{key:"cooling",icon:i.cooling},{key:"heating",icon:i.heating},{key:"dehumidification",icon:i.dehumidification},{key:"airSupply",icon:i.airSupply}];export{n as r};

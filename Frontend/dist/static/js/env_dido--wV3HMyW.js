@@ -1,0 +1,1 @@
+import{h as e}from"./index-BSlF4gO8.js";const n=t=>e.request("get",`/lcmain?type=di&sn=${t}`),r=t=>e.request("get",`/lcmain?type=do&sn=${t}`),a=t=>e.request("get",`/lcmain?type=tempHumi&sn=${t}`),o=t=>e.request("post","/lcmain/setDoState",{data:t});export{r as a,a as b,n as g,o as s};

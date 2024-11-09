@@ -1,0 +1,1 @@
+import{t as o}from"./columns-BttWbMkM.js";import n from"./infoTable-LDbMey-1.js";import{d as e,o as t,q as m,u as r}from"./index-BSlF4gO8.js";const i=e({name:"TempAndHumidityInfo",__name:"index",props:{data:Array},setup(a){return(p,s)=>(t(),m(n,{data:a.data,column:r(o)},null,8,["data","column"]))}});export{i as _};

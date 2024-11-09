@@ -1,1 +1,0 @@
-import e from"./CardTemplate-B2BMQdzx.js";import{d as n,o,m}from"./index-B378b16y.js";const _=n({name:"ThreeColumn",__name:"index",setup(r){return(a,t)=>(o(),m(e,{"grid-num":8,"column-num":3}))}});export{_};

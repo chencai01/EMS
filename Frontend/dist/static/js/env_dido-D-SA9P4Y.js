@@ -1,1 +1,0 @@
-import{h as e}from"./index-B378b16y.js";const n=t=>e.request("get",`/lcmain?type=di&sn=${t}`),r=t=>e.request("get",`/lcmain?type=do&sn=${t}`),a=t=>e.request("get",`/lcmain?type=tempHumi&sn=${t}`),o=t=>e.request("post","/lcmain/setDoState",{data:t});export{r as a,a as b,n as g,o as s};

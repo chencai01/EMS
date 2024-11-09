@@ -1,0 +1,1 @@
+import{h as n}from"./index-BSlF4gO8.js";const a=t=>n.request("get","/lcmain?type=getStationInfo",{data:t}),i=t=>{const o=+t.id>0?"updateStationInfo":"addStationInfo";return n.request("post",`/lcmain/${o}`,{data:t})};export{a as g,i as u};

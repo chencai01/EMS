@@ -1,1 +1,0 @@
-import{h as l}from"./index-B378b16y.js";const r=(e,t)=>l.request("get",`/lcmain/?type=bmsCellVolt&sn=${e}&cn=${t}`),n=(e,t)=>l.request("get",`/lcmain/?type=bmsCellTemp&sn=${e}&cn=${t}`),c=(e,t)=>l.request("get",`/lcmain/?type=bmsProductInfo&sn=${e}&cn=${t}`);export{n as a,c as b,r};

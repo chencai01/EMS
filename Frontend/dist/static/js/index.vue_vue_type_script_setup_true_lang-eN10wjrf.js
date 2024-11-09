@@ -1,0 +1,1 @@
+import{b as o}from"./columns-BttWbMkM.js";import n from"./infoTable-LDbMey-1.js";import{d as e,o as r,q as t,u as m}from"./index-BSlF4gO8.js";const l=e({name:"AcInfo",__name:"index",props:{data:Array},setup(a){return(c,s)=>(r(),t(n,{data:a.data,column:m(o)},null,8,["data","column"]))}});export{l as _};

@@ -1,0 +1,1 @@
+import o from"./CardTemplate-DuLm1zS3.js";import{d as e,o as r,q as n,_ as t}from"./index-BSlF4gO8.js";import"./valueUtil-BReNmlgC.js";import"./pack-dQihO1_7.js";const a=e({name:"FourColumn",__name:"index",setup(m){return(p,_)=>(r(),n(o,{"grid-num":6,"column-num":4}))}}),i=t(a,[["__scopeId","data-v-494a7e13"]]);export{i as default};
